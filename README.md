@@ -1,1 +1,1 @@
-# WindowsFormsApp2
+# Employee Details project
